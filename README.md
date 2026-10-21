@@ -8,13 +8,13 @@ Paper can be accessed at https://www.sciencedirect.com/science/article/pii/S1389
 The paper may be cited as \
 @article{smaud2026, \
   title = {Fast and memory-efficient kernel extreme learning machine method for active user detection in grant-free random access}, \
-  journal = {Computer Networks},
-  volume = {290},
-  pages = {112842},
-  year = {2026},
-  issn = {1389-1286},
-  doi = {https://doi.org/10.1016/j.comnet.2026.112842}
-}
+  journal = {Computer Networks},\
+  volume = {290},\
+  pages = {112842},\
+  year = {2026},\
+  issn = {1389-1286},\
+  doi = {https://doi.org/10.1016/j.comnet.2026.112842}\
+}\
 
 Note: This file incorporates various public, open-source snippets from anonymous and unknown authors across developer forums. Author is thankful to all those sources. RPC libraries taken from https://github.com/eepperly/Randomly-Pivoted-Cholesky
 
