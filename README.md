@@ -5,9 +5,9 @@ Abstract: Grant-free random access is a promising solution to enable connectivit
 
 Paper can be accessed at https://www.sciencedirect.com/science/article/pii/S1389128626008546. 
 
-The paper may be cited as \\
-@article{smaud2026, \\
-  title = {Fast and memory-efficient kernel extreme learning machine method for active user detection in grant-free random access},
+The paper may be cited as \
+@article{smaud2026, \
+  title = {Fast and memory-efficient kernel extreme learning machine method for active user detection in grant-free random access}, \
   journal = {Computer Networks},
   volume = {290},
   pages = {112842},
