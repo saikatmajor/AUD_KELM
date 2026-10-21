@@ -5,6 +5,17 @@ Abstract: Grant-free random access is a promising solution to enable connectivit
 
 Paper can be accessed at https://www.sciencedirect.com/science/article/pii/S1389128626008546. 
 
+Useage:
+For experimenting with AUD-KELM method with regression method given in Section 5.3:
+1. Generate dataset using matlab script `A_Dataset_Generator_for_KELM.m'
+2. Run the script `B_AUD_KELM.m'
+
+For experimenting with AUD-FME-KELM method 
+1. Generate dataset using matlab script `C_Dataset_Generator_for_AUD_KELM_wt_RPC.m'
+2. Run Python notebook `D_AUD_KELM_wt_RPC.ipynb'
+(Subroutine for regression given in Section 5.3 not included in this version of the code)
+
+
 The paper may be cited as \
 @article{smaud2026, \
   title = {Fast and memory-efficient kernel extreme learning machine method for active user detection in grant-free random access}, \
