@@ -14,7 +14,7 @@ The paper may be cited as \
   year = {2026},\
   issn = {1389-1286},\
   doi = {https://doi.org/10.1016/j.comnet.2026.112842}\
-}\
+}
 
 Note: This file incorporates various public, open-source snippets from anonymous and unknown authors across developer forums. Author is thankful to all those sources. RPC libraries taken from https://github.com/eepperly/Randomly-Pivoted-Cholesky
 
